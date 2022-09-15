@@ -1,0 +1,7 @@
+a=input("Enter your Name= ")
+print(a)
+b=input("Enter a number= ")
+print(type(b))
+c=input("Enter a number= ")
+c=int(c)
+print(type(c))

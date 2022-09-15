@@ -1,0 +1,12 @@
+a=3
+b=9
+s=a+b
+sub=a-b
+mul=a*b
+div=a/b
+print("Sum=",s)
+print("Subtraction=",sub)
+print("Multiplication=",mul)
+print("Division=",div)
+k=s>sub
+print(k)
