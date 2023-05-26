@@ -1,0 +1,1 @@
+# Array in Python can be expanded or contracted

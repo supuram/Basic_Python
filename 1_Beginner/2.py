@@ -1,7 +1,10 @@
 a="Supratik"
 b=345
 c=45.888
+d=b*c
 print(a)
 print(b*c)
+print(d)
+print(type(d))
 print(c)
 print(type(a))
